@@ -1,4 +1,4 @@
-github-repo: git@github.com:YOUR_GITHUB_USERNAME/pal-tracker-distributed.git
+github-repository: git@github.com:YOUR_GITHUB_USERNAME/pal-tracker-distributed.git
 github-private-key: |
   -----BEGIN RSA PRIVATE KEY-----
   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

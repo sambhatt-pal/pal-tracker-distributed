@@ -3,7 +3,7 @@ resources:
 - name: pal-tracker
   type: git
   source:
-    uri: {{github-repo}}
+    uri: {{github-repository}}
     branch: my-work
     private_key: {{github-private-key}}
 
